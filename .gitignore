@@ -6,3 +6,10 @@ npm-debug.log
 /platforms
 /plugins
 /www
+
+# Pages Github
+!platforms
+platforms/*
+!platforms/browser
+platforms/browser/*
+!platforms/browser/www
